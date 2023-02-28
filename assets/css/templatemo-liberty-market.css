@@ -2122,3 +2122,28 @@ body {
 @media (max-width: 1200px) {
   
 }
+
+.demo .item {
+  background-color: #282b2f;
+  border: 1px solid #404245;
+  padding: 30px;
+  border-radius: 20px;
+  position: relative;
+  margin-bottom: 52px;
+  text-align: center;
+}
+
+.demo .item .main-button {
+  margin-top: 20px;
+  margin-bottom: -60px;
+}
+
+.demo .item img {
+  position: relative;
+  z-index: 1;
+}
+
+.demo .item h4 {
+  font-size: 20px;
+  margin-top: 30px;
+}
